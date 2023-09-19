@@ -1,0 +1,5 @@
+com/example/ShoppingApplication/service/ProductService.class
+com/example/ShoppingApplication/controller/ProductController.class
+com/example/ShoppingApplication/domain/Product.class
+com/example/ShoppingApplication/repository/ProductRepository.class
+com/example/ShoppingApplication/ShoppingApplication.class
